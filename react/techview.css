@@ -1,0 +1,61 @@
+button.hideShowCo {
+  float: right !important;
+}
+
+.techHeader {
+  border: 2px solid silver !important;
+}
+
+.techCoCard.card-img-top {
+  border-radius: 3%;
+  margin-top: 2%;
+  border: 1px solid silver;
+  object-fit: cover;
+  height: 40%;
+}
+
+.techFormCard {
+  background-color: silver;
+  border: 1px solid black;
+}
+input.techFormInput:hover {
+  box-shadow: 2px 4px 4px 1px rgb(15, 14, 14) !important;
+}
+select.techFormInput:hover {
+  box-shadow: 2px 4px 4px 1px rgb(15, 14, 14) !important;
+}
+.techModal {
+  font-size: 22px;
+}
+.modalHeader {
+  display: block;
+}
+
+.techCoCard {
+  background-color: rgb(143, 143, 143);
+  color: rgb(32, 29, 29);
+}
+
+button.btn-danger.techCoCard {
+  background-color: rgba(168, 31, 31, 0.658) !important;
+  color: silver;
+}
+
+button.btn-primary.techCoCard {
+  background-color: rgba(4, 4, 124, 0.884) !important;
+  color: silver;
+}
+button.viewMore.techCoCard {
+  background-color: rgba(7, 7, 7, 0.795);
+  color: silver;
+}
+
+button.techCoCard {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button.techCoCard:hover {
+  box-shadow: 0 4px 4px 0 rgb(15, 14, 14) !important;
+}
